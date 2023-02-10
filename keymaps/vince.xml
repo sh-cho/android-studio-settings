@@ -1,4 +1,5 @@
 <keymap version="1" name="vince" parent="Mac OS X 10.5+">
+  <action id="Kotlin.RunScratch" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
