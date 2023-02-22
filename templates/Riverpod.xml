@@ -1,0 +1,8 @@
+<templateSet group="Riverpod">
+  <template name="cw" value="class $NAME$ extends ConsumerWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context, WidgetRef ref) {&#10;    return const Placeholder($END$);&#10;  }&#10;}&#10;" description="ConsumerWidget" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
